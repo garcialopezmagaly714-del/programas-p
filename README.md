@@ -55,7 +55,7 @@ garcialopezmagaly714@gmail.com
 -p034-tipo-angulo.py
 -p035-tipo-triangulo.py
 
-## Tarea 2 
+## Tarea 2
 -p036-numeros-consecutivos.py
 -p037-numero-mayor.py
 -p038-dia-semana.py
