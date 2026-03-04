@@ -94,3 +94,6 @@ p057-interes-simple.py
 
 ## Actividad 9
 - p065-sistemaPapeleria.py
+
+## Examen 1 
+-p066_primerExamenParcial.py
