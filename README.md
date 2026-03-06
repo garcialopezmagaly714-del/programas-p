@@ -84,16 +84,27 @@ p056-contador-vocales.py
 p057-interes-simple.py
 
 ## Tarea 3
--p058-impares-ascendente.py
--p059-pares-descendente.py
--p060-promedio-suma.py
--p061-suma-200.py
--p062-conversion-temperaturas.py
--p063-numero-mayor.py
--p064-verificar-palindromo.py
+- p058-impares-ascendente.py
+- p059-pares-descendente.py
+- p060-promedio-suma.py
+- p061-suma-200.py
+- p062-conversion-temperaturas.py
+- p063-numero-mayor.py
+- p064-verificar-palindromo.py
 
 ## Actividad 9
 - p065-sistemaPapeleria.py
 
 ## Examen 1 
 -p066_primerExamenParcial.py
+
+## Actividad 10 
+- p067-conteo-ascendente-for.py
+- p068-conteo-ascendente-for-v2.py
+- p069-conteo-descendente-for.py
+- p070-conteo-descendente-for-v2.py
+- p071-arriba-abajo.py
+- p072-suma-pares-impares.py
+- p073-suma-promedio-numeros.py
+- p074-suma-mutiplos.py
+- p075-cifrado-cesar.py
