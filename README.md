@@ -132,7 +132,7 @@ p057-interes-simple.py
 - p091-iterar-lista.py
 - p092-lista-de-gastos.py
 
-## Aactividad 13
+## Actividad 13
 - p093-procesar-calificaciones.py
 - p094-consolidar-ventas.py
 - p095-precio-acciones.py
@@ -147,3 +147,11 @@ p057-interes-simple.py
 - p102-listas-aleatorios-suma.py
 - p103-ciudades.py
 - p104-lista-impares.py
+
+## Actividad 14
+- p105-datos-estudiante.py
+- p106-calificaciones-estudiante.py
+- p107-nombres-edades.py
+- p108-conversor-unidades.py
+- p109-conversion-divisas.py
+- p110-punto-de-venta.py
