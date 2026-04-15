@@ -155,3 +155,9 @@ p057-interes-simple.py
 - p108-conversor-unidades.py
 - p109-conversion-divisas.py
 - p110-punto-de-venta.py
+
+## Actividad 15
+- p111-lote-autos.py
+- p112-registro-estudiantes.py
+- p113-reporte-ventas.py
+- p114-area-figuras.py
