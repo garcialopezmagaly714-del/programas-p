@@ -161,3 +161,7 @@ p057-interes-simple.py
 - p112-registro-estudiantes.py
 - p113-reporte-ventas.py
 - p114-area-figuras.py
+
+## Actividad 16
+- p121-municipios.py
+- p122-operaciones-conjuntos.py
