@@ -173,3 +173,7 @@ p057-interes-simple.py
 ## Actividad 16
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
+
+## Traea 7 
+- p123-conjunto-personas.py
+- p124-conjunt-numeros.py
