@@ -177,3 +177,6 @@ p057-interes-simple.py
 ## Traea 7 
 - p123-conjunto-personas.py
 - p124-conjunt-numeros.py
+
+## Examen 2
+- p125-segundo-examen-parcial.py
