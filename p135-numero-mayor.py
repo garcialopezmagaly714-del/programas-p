@@ -1,0 +1,19 @@
+#p135-numero-mayor
+# dados tres numeros enteros, regresar el mayor 
+
+def numero_mayor(n1:int,n2:int,n3:int)-> int :
+    mayor= n1 
+    if n2> mayor :
+        mayor = n2 
+    if n3 > mayor :
+        mayor = n3 
+    return mayor 
+print('Dame tres numeros enteros separados por enter ')
+a = int (input())
+b = int (input())
+c = int (input())
+print (f'El numero mayor es: {numero_mayor(a,b,c)}')
+
+# Ejemplo de uso
+print(f'El numero mayor entre 10, 25 y 15 es: { numero_mayor(10,25,15)}')
+print(f'El numero mayor entre -5,-2 y 10 es:{numero_mayor(-5,-2,-10)}')
