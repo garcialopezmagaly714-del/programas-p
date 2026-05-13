@@ -225,3 +225,6 @@ p057-interes-simple.py
 
 ## Actividad 20 
 - p160 - ventas.py
+
+## Tarea 9
+- p161-control-libros
